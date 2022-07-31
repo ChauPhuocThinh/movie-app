@@ -1,0 +1,23 @@
+{
+    "content": {
+        "true": "Sẵn sàng",
+        "false": "Chưa upload",
+        "movie": "Phim lẻ",
+        "series": "Phim bộ",
+        "1": "Nữ",
+        "2": "Nam",
+        "Animation": "Hoạt hình",
+        "Adventure": "Phiêu lưu",
+        "Comedy": "Hài hước",
+        "Action": "Hành động",
+        "Sci-Fi": "Khoa học viễn tưởng",
+        "Family": "Gia đình",
+        "Drama": "Chính kịch",
+        "Fantasy": "Kỳ ảo",
+        "Crime": "Tội phạm",
+        "Thrille": "Giật gân",
+        "Horror": "Kinh dị",
+        "War": "Chiến tranh",
+        "Romance": "Lãng mạn"
+    }
+}

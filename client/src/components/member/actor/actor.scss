@@ -1,0 +1,31 @@
+.section-actor{
+    padding: 0rem .8rem;
+    .container-actor{
+        flex-grow: 1;
+        margin: 0 auto;
+        position: relative;
+        width: auto;
+        .person-details{
+            .column-left{
+                flex: none;
+                dt{
+                    font-weight: 700;
+                    color: #dbdbdb;
+                }
+                dd{
+                    margin-bottom: 1.2em;
+                    color: #b5b5b5;
+                    margin-inline-start: 0 !important;
+                }
+                .avatar{
+                    margin-bottom: 2em;
+                    text-align: center;
+                    img{
+                        height: auto;
+                        width: 100%;
+                    }
+                }
+            }
+        }
+    }
+}

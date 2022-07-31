@@ -1,0 +1,37 @@
+.css-heg063-MuiTabs-flexContainer{
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+.player-wrapper {
+    position: relative;
+    position: relative;
+    margin: -35px -45px 0px -45px;
+  }
+  
+.react-player {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.watch .title {
+  margin-bottom: .7em;
+  font-family: Merriweather,serif;
+  font-weight: 400;
+}
+.watch .title.is-2 {
+    font-size: 2.5rem;
+}
+.watch .title:not(.is-spaced)+.subtitle {
+    margin-top: -1.25rem;
+    margin-bottom: 34px;
+}
+.watch .subtitle {
+    margin-bottom: 1.5em;
+    color: #b5b5b5;
+    font-size: 1.25rem;
+    font-weight: 400;
+    line-height: 1.25;
+}
+.watch .subtitle.is-4 {
+    font-size: 1.5rem;
+}

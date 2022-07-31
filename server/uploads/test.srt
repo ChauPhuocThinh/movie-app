@@ -1,0 +1,96 @@
+1
+00:00:00,240 --> 00:00:01,830
+All right, and welcome to the course.
+
+2
+00:00:02,430 --> 00:00:08,790
+And before we continue, let's address the elephant in the room the course requirements, since this
+
+3
+00:00:08,790 --> 00:00:10,170
+is an advanced course.
+
+4
+00:00:10,890 --> 00:00:19,650
+My expectation is that you are already familiar with React and A.j.'s fundamentals since, in my opinion,
+
+5
+00:00:20,040 --> 00:00:27,600
+when it comes to learn, it's really about combining our existing frontend and server knowledge instead
+
+6
+00:00:27,600 --> 00:00:29,670
+of starting everything from the blank page.
+
+7
+00:00:30,510 --> 00:00:37,500
+So in other words, this is not a course where we'll cover React or Node.js just from scratch.
+
+8
+00:00:38,480 --> 00:00:41,030
+Simply because it would take way too long.
+
+9
+00:00:41,890 --> 00:00:47,850
+And it would be very unfair to the people who are already familiar with both technologies.
+
+10
+00:00:48,850 --> 00:00:56,560
+As far as the react, like I already mentioned, I'm assuming that you already know the fundamentals.
+
+11
+00:00:56,950 --> 00:00:59,110
+For example, water is a component.
+
+12
+00:00:59,470 --> 00:01:02,800
+And on top of that, you are familiar with react hooks.
+
+13
+00:01:03,430 --> 00:01:05,590
+Know how to implement the most used ones.
+
+14
+00:01:06,190 --> 00:01:07,690
+So think you state?
+
+15
+00:01:08,660 --> 00:01:17,390
+Use the fact use reducer and use context, and also, you know, how to create global context in your
+
+16
+00:01:17,390 --> 00:01:18,500
+React application.
+
+17
+00:01:19,460 --> 00:01:26,030
+When it comes to server, I'm assuming that you can set up a basic server, create controllers and or
+
+18
+00:01:26,030 --> 00:01:29,210
+else have a MongoDB Atlas account.
+
+19
+00:01:29,510 --> 00:01:30,830
+Know how to connect to it.
+
+20
+00:01:31,400 --> 00:01:35,240
+And lastly, have some experience with JSON web tokens.
+
+21
+00:01:36,280 --> 00:01:44,290
+Now, if you do need a refresher on any of these topics, I do have tons and tons of free videos where
+
+22
+00:01:44,290 --> 00:01:51,370
+I cover all of those things from scratch and showcase all of the steps and gotchas in great detail.
+
+23
+00:01:51,970 --> 00:02:00,460
+So please do not skip the following lecture and if necessary, please utilize any or all of the free
+
+24
+00:02:00,460 --> 00:02:02,170
+resources I provided.
+

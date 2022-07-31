@@ -1,0 +1,46 @@
+.container-signup{
+    padding: .75rem;
+    .title-signup{
+        margin-bottom: 24px;
+        margin-top: 0;
+        color: #7a7a7a
+    }
+    .box-signup{
+        padding: 1.25rem;
+        background-color: #363636;
+        border-radius: 6px;
+        margin-bottom: 12px;
+        .field{
+            margin-bottom: 12px;
+            input{
+                max-width: 94.1%;
+                height: 20px;
+                font-size: 21px;
+                padding: 16px;
+                border-radius: 4px;
+                border: none;
+                color: grey;
+            }
+        }
+        button{
+            width: 100%;
+            font-size: 1.5rem;
+            background-color: #3298dc;
+            border-color: transparent;
+            color: #fff;
+            border-width: 1px;
+            cursor: pointer;
+            padding: calc(.5em - 1px) 1em;
+            border-radius: 4px;
+            &:hover{
+                opacity: 0.9;
+            }
+            &:active{
+                opacity: 0.85;
+            }
+        }
+    }
+    .text-right{
+        text-align: right;
+    }
+}

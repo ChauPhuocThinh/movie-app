@@ -1,0 +1,40 @@
+.actor-slider .slick-list{
+    width: 300px;
+}
+.actor-slider .slick-slider{
+    width: 200px;
+}
+.actor-slider .slick-slide{
+    img {
+        display: block;
+        width: 90px;
+        height: 90px;
+        border-radius: 50%;
+    }
+    p {
+        text-align: center;
+        color: #dbdbdb;
+        font-weight: 700;
+        cursor: pointer;
+    }
+}
+.actor-slider .slick-slide div{
+    margin-right: 10px;
+}
+.trailer-slider{
+    .slick-list{
+        .slick-track{
+            margin-left: 0;
+            .slick-slide{
+                img{
+                    width: 180px;
+                    height: auto;
+                    &:hover{
+                        border: 0.5px solid #dbdbdb;
+                        cursor: pointer;
+                    }
+                }
+            }
+        }
+    }
+}

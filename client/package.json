@@ -1,0 +1,63 @@
+{
+  "name": "movie",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@devexpress/dx-core": "^3.0.4",
+    "@devexpress/dx-react-chart": "^3.0.3",
+    "@devexpress/dx-react-chart-material-ui": "^3.0.3",
+    "@devexpress/dx-react-core": "^3.0.4",
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@mui/icons-material": "^5.5.1",
+    "@mui/lab": "^5.0.0-alpha.77",
+    "@mui/material": "^5.9.0",
+    "@mui/styled-engine": "^5.8.7",
+    "@mui/x-data-grid": "^5.7.0",
+    "@testing-library/jest-dom": "^5.16.2",
+    "@testing-library/react": "^12.1.4",
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.1",
+    "i18next": "^21.6.15",
+    "moment": "^2.29.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-hook-form": "^7.33.1",
+    "react-i18next": "^11.16.3",
+    "react-player": "^2.10.1",
+    "react-router-dom": "^6.2.2",
+    "react-scripts": "5.0.0",
+    "react-slick": "^0.29.0",
+    "resolve-url-loader": "^5.0.0",
+    "sass": "^1.53.0",
+    "sass-loader": "^13.0.2",
+    "slick-carousel": "^1.8.1",
+    "universal-cookie": "^4.0.4",
+    "web-vitals": "^2.1.4",
+    "webpack": "^5.73.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

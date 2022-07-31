@@ -1,0 +1,235 @@
+/*PC*/
+@media (min-width: 1024px){
+    .nav-right{
+        float: right;
+        right: 12px;
+    }
+    #header{
+        height: 55px;
+    }
+    #toggle-menu-mobile{
+        display: none !important;
+    }
+    #menu-mobile{
+        display: unset !important;
+    }
+    .search-form{
+        width: 1211px;
+    }
+    .container-signup, .container-login, .container-forgot{
+        width: 50%;
+        margin-left: 25%;
+    }
+    .container-signup {
+        .box-signup{
+            .field{
+                input{
+                    width: 94.1%;
+                }
+            }
+        }
+    } 
+    .container-login {
+        .box-login{
+            .field{
+                input{
+                    width: 94.1%;
+                }
+            }
+        }
+    }
+    .container-forgot {
+        .box-forgot{
+            .field{
+                input{
+                    width: 94.1%;
+                }
+            }
+        }
+    }
+    //Detail-page
+    .column-left {
+        width: 20%;
+    }
+    .shiftup{
+        max-width: 1344px !important;
+    }
+    .trailer-slider{
+        .slick-list{
+            .slick-track{
+                max-width: 912px;
+                .slick-slide{
+                    width: 220px !important;
+                }
+            }
+        }
+    }
+}
+/*Tablet*/
+@media (min-width:740px) and (max-width: 1023px){
+    .nav-right{
+        float: right;
+        right: 12px;
+    }
+    #header{
+        height: 55px;
+    }
+    #toggle-menu-mobile{
+        display: none !important;
+    }
+    #menu-mobile{
+        display: unset !important;
+    }
+    #filter #options {
+        margin-left: 0
+    }
+    #filter #options .select .form-select {
+        width: 120px;
+    }
+    .search-form{
+        width: 730px;
+    }
+    .container-signup, .container-login, .container-forgot{
+        width: 50%;
+        margin-left: 25%;
+    }
+    .container-signup {
+        .box-signup{
+            .field{
+                input{
+                    width: 90.1%;
+                }
+            }
+        }
+    } 
+    .container-login {
+        .box-login{
+            .field{
+                input{
+                    width: 90.1%;
+                }
+            }
+        }
+    }
+    .container-forgot {
+        .box-forgot{
+            .field{
+                input{
+                    width: 90.1%;
+                }
+            }
+        }
+    }
+    //Detail-page
+    .column-left {
+        width: 20%;
+    }
+    .trailer-slider{
+        .slick-list{
+            .slick-track{
+                max-width: 912px;
+                .slick-slide{
+                    width: 200px !important;
+                }
+            }
+        }
+    }
+}
+
+/*Mobile*/
+@media(max-width: 740px){
+    #nav li {
+        display: block;
+        a{
+            display: block;
+        }
+    }
+    .nav-right{
+        float: left;
+        right: -12px;
+    }
+    #header{
+        height: auto;
+        background-color: rgba(53, 16, 104,0.8);
+    }
+    #menu-mobile{
+        display: none;
+    }
+    #logo{
+        left: 49px
+    }
+    #toggle-menu-mobile{
+        width: 24px;
+    }
+    #body #container {
+        margin: 92px 15px;
+    }
+    .films-list {
+        justify-content: center;
+    }
+    .films-list .films-item {
+        margin-right: 0;
+    }
+    .films-list .films-item .poster {
+        max-width: 300px;
+    }
+    .nav-right .subnav {
+        right: -33px !important;
+    }
+    #filter #options {
+        margin-left: 0
+    }
+    #filter #options .select .form-select {
+        width: 228px;
+    }
+    .search-form{
+        width: 367px;
+    }
+    .container-signup, .container-login, .container-forgot{
+        width: 90%;
+        margin-left: 2%;
+    }
+    .container-signup {
+        .box-signup{
+            .field{
+                input{
+                    width: 90.1%;
+                }
+            }
+        }
+    } 
+    .container-login {
+        .box-login{
+            .field{
+                input{
+                    width: 90.1%;
+                }
+            }
+        }
+    }
+    .container-forgot {
+        .box-forgot{
+            .field{
+                input{
+                    width: 90.1%;
+                }
+            }
+        }
+    }
+    //Detail-page
+    .columns {
+        flex-direction: column;
+    }
+    .trailer-slider{
+        .slick-list{
+            .slick-track{
+                max-width: 912px;
+                .slick-slide{
+                    width: 188px !important;
+                }
+            }
+        }
+    }
+
+}
+
