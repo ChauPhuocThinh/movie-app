@@ -133,8 +133,8 @@ class adminController {
             port: 465,
             secure: true, 
             auth: {
-                user: "thinhst8@gmail.com",
-                pass: "sznmnwjygoqiwlwa"
+                user: process.env.NODEMAILER_EMAIL,
+                pass: process.env.NODEMAILER_PASSWORD
             }
         });
         var mailOptions = {
